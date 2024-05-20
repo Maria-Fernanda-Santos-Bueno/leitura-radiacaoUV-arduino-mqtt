@@ -1,4 +1,7 @@
 # leitura-radiacaoUV-arduino-mqtt
+![image](https://github.com/Maria-Fernanda-Santos-Bueno/leitura-radiacaoUV-arduino-mqtt/assets/100324669/b855232b-a3ef-40d6-8336-e0aea38e31e7)
+
+![image](https://github.com/Maria-Fernanda-Santos-Bueno/leitura-radiacaoUV-arduino-mqtt/assets/100324669/0762da11-928e-4dd4-829f-73e9526bb47b)
 
 ## Materiais 
 
@@ -90,4 +93,7 @@ Funcionamento Básico:
 
 - Assinatura: Outros clientes assinam esse tópico para receber as mensagens publicadas. Por exemplo, um aplicativo no celular pode assinar o tópico "casa/sala/temperatura" para receber atualizações da temperatura. 
 
-- Broker: O broker gerencia todas as conexões e distribui as mensagens dos tópicos publicados para todos os clientes assinantes desses tópicos. 
+- Broker: O broker gerencia todas as conexões e distribui as mensagens dos tópicos publicados para todos os clientes assinantes desses tópicos.
+
+
+
